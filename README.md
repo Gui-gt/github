@@ -7,3 +7,8 @@
 <h3>Linkedin</h3>
 
 <a href="linkedin.com/in/guilherme-henrique-1a773a263/" target="_blank"><img  width="50px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt=""></a>
+
+<h3>Developer web skills</h3>
+<section display = block><img width="30px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" alt="">
+<img width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="">
+<img width="30px" src="https://cdn.iconscout.com/icon/free/png-128/css-131-722685.png" alt=""></section>
