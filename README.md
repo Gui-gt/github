@@ -6,5 +6,4 @@
 
 <h3>Linkedin</h3>
 
-<a href="www.linkedin.com/in/guilherme-henrique-1a773a263
-" target="_blank"><img  width="50px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt=""></a>
+<a href="linkedin.com/in/guilherme-henrique-1a773a263/" target="_blank"><img  width="50px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt=""></a>
