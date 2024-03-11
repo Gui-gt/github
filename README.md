@@ -12,3 +12,12 @@
 <section display = block><img width="30px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" alt="">
 <img width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="">
 <img width="30px" src="https://cdn.iconscout.com/icon/free/png-128/css-131-722685.png" alt=""></section>
+
+<p>Sobre
+- Agilidade e boa comunicação
+
+- Desenvolvedor Front end e Programador JS
+
+- Desenvolvedor Web Skills: HTML/ CSS/ Javascript/ Vue/ Git/ Sass/ Mysql/ Node js/ Vue JS/ Jquery/ Php/ Laravel/ Bootstrap
+
+- Design Skills: Canvas/ Photoshop/ Gimp/ Adobe illustrator / Lightroom</p>
