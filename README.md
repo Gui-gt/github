@@ -23,4 +23,11 @@
 
 - Desenvolvedor Web Skills: HTML/ CSS/ Javascript/ Vue/ Git/ Sass/ Mysql/ Node js/ Vue JS/ Jquery/ Php/ Laravel/ Bootstrap
 
-- Design Skills: Canvas/ Photoshop/ Gimp/ Adobe illustrator / Lightroom</p>
+- Design Skills: Canvas/ Photoshop/ Gimp/ Adobe illustrator / Lightroom
+
+Estou desenvolvendo um projeto pessoal sobre biodiversidade e sementes, comentando sobre os riscos e aumento da temperatura do planeta em que vivemos e o desmatamento em massa.
+Tenho usado HTML, CSS e Javascript para desenvolver.
+
+</p>
+
+
