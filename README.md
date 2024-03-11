@@ -13,6 +13,7 @@
 <img width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="">
   <img width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/vue-9-logo-png-transparent.png" alt="">
   <img width="35px" src="https://pluspng.com/img-png/bootstrap-logo-vector-png-bem-with-bootstrap-bootstrap-logo-1024.png" alt="">
+    <img width="60px" src="https://pngimg.com/uploads/mysql/mysql_PNG35.png" alt="">
 <img width="30px" src="https://cdn.iconscout.com/icon/free/png-128/css-131-722685.png" alt=""></section>
 
 <p>Sobre
