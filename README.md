@@ -11,6 +11,7 @@
 <h3>Developer web skills</h3>
 <section display = block><img width="30px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" alt="">
 <img width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="">
+  <img width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/vue-9-logo-png-transparent.png" alt="">
 <img width="30px" src="https://cdn.iconscout.com/icon/free/png-128/css-131-722685.png" alt=""></section>
 
 <p>Sobre
